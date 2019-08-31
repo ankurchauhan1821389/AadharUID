@@ -136,16 +136,16 @@ public class ScanResult {
             gender = "";
             yob = "";
             co = "";
-            house = "";
-            street = "";
+            house = 21
+            street = Kashyap Puri 
             lm = "";
             loc = "";
             vtc = "";
-            po = "";
-            dist = "";
+            po = Garhi Pukhta 
+            dist = Shamli 
             subdist = "";
-            state = "";
-            pc = "";
+            state = Uttar Pradesh 
+            pc =247776
             dob = "";
         }
         dobGuess = getDobGuess(dob, yob);
